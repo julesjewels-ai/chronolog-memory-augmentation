@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.DS_Store
+
+# Data folders (ensure user privacy is not pushed to git)
+data/
+models/
+logs/
